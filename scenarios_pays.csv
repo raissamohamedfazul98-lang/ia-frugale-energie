@@ -1,0 +1,5 @@
+modele,gCO2e/1000 pred. (France),gCO2e/1000 pred. (Allemagne),gCO2e/1000 pred. (Pologne)
+BERT-base,0.014759,0.117406,0.209632
+DistilBERT,0.007306,0.058118,0.103771
+TF-IDF + LogReg,6e-06,5e-05,8.9e-05
+TinyBERT (distillé),0.000271,0.002153,0.003845

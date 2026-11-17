@@ -1,0 +1,10 @@
+{
+  "os": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",
+  "python": "3.14.3",
+  "torch": "2.15.0+cpu",
+  "threads": 4,
+  "n_test": 872,
+  "min_seconds": 20,
+  "repeats": 3
+}
